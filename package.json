@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "name": "tp1-primer-parcial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrieldlC/TP1-primer-parcial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrieldlC/TP1-primer-parcial/issues"
+  },
+  "homepage": "https://github.com/GabrieldlC/TP1-primer-parcial#readme"
+}
